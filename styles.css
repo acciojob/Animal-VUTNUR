@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+#animal-photos img{
+	height:100px;
+	width:150px;
+	padding:10px;
+}
+#animal-photos{
+	background-color:black;
+}
+#photo-heading{
+	color:white;
+	text-align:center
+	
+}
